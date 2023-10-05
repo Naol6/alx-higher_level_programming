@@ -1,0 +1,2 @@
+export PATH="/path/to/pycodestyle/directory:$PATH"
+
